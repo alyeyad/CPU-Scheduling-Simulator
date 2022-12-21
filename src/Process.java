@@ -1,5 +1,6 @@
 import static java.lang.Math.ceil;
 
+
 public class Process {
     private final String name;
     private int burstTime = 0;
